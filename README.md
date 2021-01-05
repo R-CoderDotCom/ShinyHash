@@ -10,7 +10,7 @@ This is an example of how to add a hash to Shiny app permalinks when a tab is cl
 ![imagen](https://user-images.githubusercontent.com/67192157/102987976-87cd3580-4513-11eb-8ec0-3d9aa0ab2be3.png)
 
 
-The javascript used is the same you can find in [flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/) package. There is extra code that Shiny won't use, so feel free to remove the unnecesary lines.
+The javascript used is the same you can find in [flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/) package. There is extra code that Shiny won't use, so feel free to remove the unnecessary lines.
 
 
 This repository is inspired by a question by [DadosdeLaplace](https://twitter.com/DadosdeLaplace/status/1341368180472745985) on Twitter.
